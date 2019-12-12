@@ -4,8 +4,7 @@ git testing stuff
 
 ## Purpose
 
-Sample website with plenty of files for demos
-adding even more text
+changes to test stash methods
 
 ## Deployment
 
